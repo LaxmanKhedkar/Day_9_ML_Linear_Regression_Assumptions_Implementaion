@@ -4,7 +4,7 @@ This repository contains a detailed walkthrough of **Linear Regression Assumptio
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 Linear Regression is one of the most fundamental and widely used algorithms in machine learning. However, for it to work correctly, certain **assumptions** about the data must be met. This repository covers:
 
